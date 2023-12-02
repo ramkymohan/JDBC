@@ -17,5 +17,7 @@
         <mapping class="org.HybernateExample3.TablePerConcrete.EmployeePerConcret"/>
         <mapping class="org.HybernateExample3.TablePerConcrete.ContractEmployeePerConcrete"/>
         <mapping class="org.HybernateExample3.TablePerConcrete.RegularEmployeePerConcrete"/>
+        <mapping class="org.Example_one_to_many_mapping.Question"/>
+        <mapping class="org.Example_one_to_many_mapping.Answer"/>
     </session-factory>
 </hibernate-configuration>
